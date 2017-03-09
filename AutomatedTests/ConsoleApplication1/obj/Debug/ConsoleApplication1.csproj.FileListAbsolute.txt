@@ -1,0 +1,15 @@
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.dll
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.dll
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.dll
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.xml
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.xml
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\MicrosoftWebDriver.exe
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\DropBox\visual studio\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
